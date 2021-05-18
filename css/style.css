@@ -70,7 +70,7 @@ e 10px de altura para a barra horizontal */
     estou colocando uma cor azul clara nela*/
 
  ::-webkit-scrollbar-thumb {
-    background: #ce7394;
+    background: #d95044;
 }
 
 .border-2 {
@@ -129,8 +129,8 @@ body:after {
 }
 
 .btn.btn-primary {
-    background: #ce7394;
-    border-color: #ce7394;
+    background: #d95044;
+    border-color: #d95044;
     color: #fff;
 }
 
@@ -161,7 +161,7 @@ body:after {
 
 .form-control:active,
 .form-control:focus {
-    border-color: #ce7394;
+    border-color: #d95044;
 }
 
 .form-control:hover,
@@ -402,7 +402,7 @@ IMG.displayed {
 }
 
 .ul-check.primary li:before {
-    color: #ce7394;
+    color: #d95044;
 }
 
 .ul-check li.remove {
@@ -466,7 +466,7 @@ IMG.displayed {
 }
 
 .site-navbar .site-navigation .site-menu .active {
-    color: #ce7394;
+    color: #d95044;
     display: inline-block;
     padding: 5px 20px;
 }
@@ -488,7 +488,7 @@ IMG.displayed {
 }
 
 .site-navbar .site-navigation .site-menu>li>a:hover {
-    color: #ce7394;
+    color: #d95044;
 }
 
 .site-navbar .site-navigation .site-menu .has-children {
@@ -518,7 +518,7 @@ IMG.displayed {
     top: 100%;
     position: absolute;
     text-align: left;
-    border-top: 2px solid #ce7394;
+    border-top: 2px solid #d95044;
     -webkit-box-shadow: 0 2px 10px -2px rgba(0, 0, 0, 0.1);
     box-shadow: 0 2px 10px -2px rgba(0, 0, 0, 0.1);
     padding: 0px 0;
@@ -562,7 +562,7 @@ IMG.displayed {
 }
 
 .site-navbar .site-navigation .site-menu .has-children .dropdown .active {
-    color: #ce7394 !important;
+    color: #d95044 !important;
 }
 
 .site-navbar .site-navigation .site-menu .has-children .dropdown>li {
@@ -596,7 +596,7 @@ IMG.displayed {
 .site-navbar .site-navigation .site-menu .has-children:hover>a,
 .site-navbar .site-navigation .site-menu .has-children:focus>a,
 .site-navbar .site-navigation .site-menu .has-children:active>a {
-    color: #ce7394;
+    color: #d95044;
 }
 
 .site-navbar .site-navigation .site-menu .has-children:hover,
@@ -707,7 +707,7 @@ IMG.displayed {
 }
 
 .site-mobile-menu .site-nav-wrap a:hover {
-    color: #ce7394;
+    color: #d95044;
 }
 
 .site-mobile-menu .site-nav-wrap li {
@@ -716,7 +716,7 @@ IMG.displayed {
 }
 
 .site-mobile-menu .site-nav-wrap li .active {
-    color: #ce7394;
+    color: #d95044;
 }
 
 .site-mobile-menu .site-nav-wrap .arrow-collapse {
@@ -867,7 +867,7 @@ IMG.displayed {
 
 .sticky-wrapper.is-sticky .site-navbar .site-menu>li>a:hover,
 .sticky-wrapper.is-sticky .site-navbar .site-menu>li>a.active {
-    color: #ce7394 !important;
+    color: #d95044 !important;
 }
 
 .sticky-wrapper .shrink {
@@ -1158,7 +1158,7 @@ IMG.displayed {
 
 .site-block-tab .nav-item>a:hover,
 .site-block-tab .nav-item>a.active {
-    border-bottom: 2px solid #ce7394;
+    border-bottom: 2px solid #d95044;
     color: #000;
 }
 
@@ -1289,7 +1289,7 @@ IMG.displayed {
 }
 
 .slide-one-item .owl-dots .owl-dot.active span {
-    background: #ce7394;
+    background: #d95044;
 }
 
 .block-12 {
@@ -1367,7 +1367,7 @@ IMG.displayed {
     width: 80px;
     height: 4px;
     margin-top: -4px;
-    background: #ce7394;
+    background: #d95044;
     top: 0;
 }
 
@@ -1395,7 +1395,7 @@ IMG.displayed {
     display: block;
     border-radius: 50%;
     opacity: 1;
-    color: #ce7394 !important;
+    color: #d95044 !important;
 }
 
 .block-16 figure .play-button:hover {
@@ -1444,7 +1444,7 @@ IMG.displayed {
 }
 
 .block-25 ul li a .meta {
-    color: #ce7394;
+    color: #d95044;
 }
 
 .block-25 ul li a:hover img {
@@ -1483,7 +1483,7 @@ IMG.displayed {
     position: absolute;
     width: 30px;
     height: 30px;
-    background: #ce7394;
+    background: #d95044;
     border-radius: 50%;
     color: #fff;
 }
@@ -1533,7 +1533,7 @@ IMG.displayed {
 
 .site-block-27 ul li.active a,
 .site-block-27 ul li.active span {
-    background: #ce7394;
+    background: #d95044;
     color: #fff;
     border: 1px solid transparent;
 }
@@ -1666,7 +1666,7 @@ IMG.displayed {
 }
 
 .h-entry h2 a:hover {
-    color: #ce7394;
+    color: #d95044;
 }
 
 .overlap-left {
@@ -1686,7 +1686,7 @@ IMG.displayed {
 .feature-1,
 .free-quote,
 .feature-3 {
-    background: #ce7394;
+    background: #d95044;
     padding: 30px 50px;
     color: rgba(255, 255, 255, 0.6);
     font-size: 15px;
@@ -1786,7 +1786,7 @@ IMG.displayed {
     bottom: 0;
     width: 80px;
     height: 3px;
-    background: #ce7394;
+    background: #d95044;
 }
 
 .border-primary.text-center:after {
@@ -1832,7 +1832,7 @@ IMG.displayed {
 .how-it-work-item .number {
     width: 50px;
     height: 50px;
-    background: #ce7394;
+    background: #d95044;
     color: #fff;
     line-height: 55px;
     font-weight: 300;
@@ -1903,7 +1903,7 @@ IMG.displayed {
     line-height: 40px;
     border-radius: 50%;
     display: inline-block;
-    background: #ce7394;
+    background: #d95044;
     color: #fff;
 }
 
@@ -1986,7 +1986,7 @@ IMG.displayed {
 }
 
 .popular-category:hover {
-    background: #ce7394;
+    background: #d95044;
     -webkit-box-shadow: 0 5px 30px -5px rgba(0, 123, 255, 0.5);
     box-shadow: 0 5px 30px -5px rgba(0, 123, 255, 0.5);
 }
@@ -2056,7 +2056,7 @@ IMG.displayed {
     font-size: 12px;
     display: inline-block;
     padding: 5px 30px;
-    background: #ce7394;
+    background: #d95044;
     border-radius: 30px;
     color: #fff;
     letter-spacing: .2em;
@@ -2112,7 +2112,7 @@ IMG.displayed {
 }
 
 .accordion-item[aria-expanded="true"] {
-    color: #ce7394;
+    color: #d95044;
 }
 
 .social-media {
@@ -2164,7 +2164,7 @@ IMG.displayed {
     display: inline-block;
     width: 50px;
     height: 50px;
-    background: #ce7394;
+    background: #d95044;
     margin-right: 1.5rem;
     border-radius: 50%;
     line-height: 50px;
@@ -2310,13 +2310,13 @@ IMG.displayed {
 
 .section-sub-title {
     font-size: 13px;
-    color: #ce7394;
+    color: #d95044;
     letter-spacing: .2em;
     text-transform: uppercase;
 }
 
 .section-title {
-    color: #ce7394;
+    color: #d95044;
     font-size: 40px;
     font-weight: 900;
 }
@@ -2335,7 +2335,7 @@ IMG.displayed {
     position: absolute;
     bottom: -10px;
     right: -10px;
-    background: #ce7394;
+    background: #d95044;
     padding: 20px;
 }
 
@@ -2448,7 +2448,7 @@ IMG.displayed {
     -webkit-transition: .3s all ease;
     -o-transition: .3s all ease;
     transition: .3s all ease;
-    background: #ce7394;
+    background: #d95044;
 }
 
 .team-member .social li {
@@ -2492,7 +2492,7 @@ IMG.displayed {
     -ms-transform: translateY(-50%);
     transform: translateY(-50%);
     display: inline-block;
-    background: #ce7394;
+    background: #d95044;
 }
 
 @media (max-width: 991.98px) {
@@ -2591,14 +2591,14 @@ IMG.displayed {
 
 .filters .btn:hover {
     border-color: transparent;
-    background: #ce7394;
+    background: #d95044;
     color: #fff;
 }
 
 .filters .btn.active {
-    background: #ce7394 !important;
+    background: #d95044 !important;
     color: #fff;
-    border-color: #ce7394 !important;
+    border-color: #d95044 !important;
 }
 
 .pricing {
@@ -2612,7 +2612,7 @@ IMG.displayed {
 
 .pricing .price>span>span {
     font-size: 3rem;
-    color: #ce7394;
+    color: #d95044;
 }
 
 .pricing ul li {
